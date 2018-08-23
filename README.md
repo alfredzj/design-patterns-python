@@ -1,10 +1,10 @@
 # design-patterns-python
 
-### Getting Started
+## Getting Started
 
 These instructions will get you through my exploration of design patterns. The explanations and implementations will be provided along with the time.
 
-#### The Principal of Design Patterns
+### The Principal of Design Patterns
 
 In software engineering, a software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design. To fully have a good command of it, it is better to understand the principal behind it.
 
@@ -42,4 +42,6 @@ All in all, SRP tells us one module should only have responsibility over a singl
 
 
 
-#### Simple factory
+### Design Patterns
+
+#### simple factory pattern
